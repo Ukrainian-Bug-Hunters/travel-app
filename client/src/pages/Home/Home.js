@@ -2,9 +2,7 @@ import Hero from "../../components/Hero/Hero";
 
 function Home() {
   return (
-    <>
     <Hero/>
-    </>
   );
 }
 
